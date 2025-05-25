@@ -1,2 +1,1 @@
-# K-resel-Is-nma-Projesi-Son
-Python pro son proje ama biraz sade...
+bunu hazırlarken kullandığım kaynak: WikiPedia ve ChatGPT. 
